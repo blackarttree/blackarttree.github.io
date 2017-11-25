@@ -1,0 +1,40 @@
+body {
+  background-color: #000;
+}
+
+html{
+
+}
+
+head {
+
+}
+
+body {
+  padding: auto;
+}
+
+p{
+  color: #fff;
+  font-size: 20px;
+}
+
+.logo1 {
+  image-orientation: vertical;
+  float: right;
+  width:900px;
+  height:800px;
+}
+
+.h1 {
+  color: #fff;
+}
+
+.art {
+  width: 1200px;
+  height:900px;
+}
+.flist {
+  color: #fff;
+  font-size: 30px;
+}
